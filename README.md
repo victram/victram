@@ -27,7 +27,7 @@
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**Creador de Currículums**](https://github.com/victram/CreadorDeCurriculums) | App gratuita y open source para crear CV y cartas de presentación con 5 plantillas, vista previa en tiempo real, exportación a PDF y seguimiento de candidaturas. Sin cuentas ni servidores: todo en local. | TypeScript · Escritorio + Web |
+| [**Creador de Currículums**](https://github.com/victram/CreadorDeCurriculums) | App gratuita y open source para crear CV y cartas de presentación con 5 plantillas, vista previa en tiempo real, exportación a PDF y seguimiento de candidaturas. Sin cuentas ni servidores: todo en local. | TypeScript · Vite · Tauri |
 | [**LookSay**](https://github.com/victram/LookSay) | App de comunicación controlada con la mirada para personas con movilidad muy reducida. Escribe mirando las teclas y la app lo dice en voz alta. Solo necesita una webcam y funciona offline. ES / CA / EN. | Python · MediaPipe · SQLite |
 | [**Pomodoro Timer**](https://github.com/victram/PomodoroTimer) | Temporizador Pomodoro minimalista de escritorio con descansos configurables, notificaciones, ruido de fondo con ecualizador y modo día/noche. | JavaScript · React · Electron |
 
